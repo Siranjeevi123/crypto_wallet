@@ -7,6 +7,8 @@ A modern, secure, and user-friendly **Web3 cryptocurrency wallet** built with Re
 ![Vite](https://img.shields.io/badge/Vite-7.0-646CFF?style=for-the-badge&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+### 🌐 Live Demo: [crypto-alpha-eight.vercel.app](https://crypto-alpha-eight.vercel.app/)
+
 ---
 
 ## ✨ Features
